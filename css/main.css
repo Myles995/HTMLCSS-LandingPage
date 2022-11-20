@@ -119,7 +119,7 @@ section {
     margin-top: 10px;
 }
 
-.nav-list>li>a {
+.nav-list li a {
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
@@ -132,8 +132,13 @@ section {
 
 .account {
     text-align: right;
-    padding: 14px;
-    font: 18px #364147;
+    padding: 15px;
+    color: #364147;
+    font-size: 18px;
+}
+
+.account a {
+    font-size: 14px;
 }
 
 .profile-pic {
@@ -142,7 +147,7 @@ section {
 
 }
 
-.profile-pic>img {
+.profile-pic img {
     border-radius: 100px;
     max-width: 100%;
 }
