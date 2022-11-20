@@ -87,8 +87,8 @@ section {
 }
 
 .brand {
-    height: 170px;
-    width: 85px;
+    width: 170px;
+    height: 85px;
     margin: 0 60px 0 -15px;
 }
 
@@ -98,8 +98,8 @@ section {
 }
 
 .search-box {
-    height: 330px;
-    width: 30px;
+    width: 330px;
+    height: 30px;
     padding: 6px 12px;
     border: 1px solid #a0a0a0;
 }
@@ -107,8 +107,8 @@ section {
 .search-button {
     background-color: #a0a0a0;
     color: #fff;
-    height: 100px;
-    width: 30px;
+    width: 100px;
+    height: 30px;
     border: 0;
     padding: 0;
 }
